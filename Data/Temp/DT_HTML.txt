@@ -1,0 +1,39 @@
+﻿<table class='table' style='width: 22%; height: 80px; border-collapse: collapse' border='1'>
+<tr style='background-color:yellow'>
+<th>구분</th>
+<th>공원명</th>
+<th>제목</th>
+<th>진행 현황</th>
+</tr>
+<tr>
+<td>162</td>
+<td>가야산</td>
+<td>[가야산] 가야산국립공원 한시인력(환경관리) 직원 채용 공고</td>
+<td>진행중</td>
+<tr>
+<td>236</td>
+<td>덕유산</td>
+<td>[덕유산] 덕유산국립공원 기간제(자원보전) 직원 채용 공고</td>
+<td>진행중</td>
+<tr>
+<td>512</td>
+<td>북한산</td>
+<td>[북한산도봉] 북한산도봉사무소 2024년 국립공원지킴이 채용 공고</td>
+<td>진행중</td>
+<tr>
+<td>510</td>
+<td>북한산</td>
+<td>[북한산도봉] 북한산도봉사무소 기간제(자원보전관리) 직원 채용 공고</td>
+<td>진행중</td>
+<tr>
+<td>240</td>
+<td>속리산</td>
+<td>[속리산] 속리산국립공원사무소 기간제 직원(자원보전) 채용 공고</td>
+<td>진행중</td>
+<tr>
+<td>231</td>
+<td>오대산</td>
+<td>[오대산] 기간제(환경관리) 채용</td>
+<td>진행중</td>
+</tr>
+</table>
